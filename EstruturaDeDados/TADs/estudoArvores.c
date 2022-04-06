@@ -78,4 +78,4 @@ int testaIgual(NO *a, NO *b, int igual){            //igual inicia com 1, se fic
         }
     }
     return igual;
-}
+};
