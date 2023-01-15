@@ -1,4 +1,4 @@
 # UFRGS
 Curso de Engenharia de Computação - UFRGS
 
-Códigos utilizados nas cadeiras
+Códigos utilizados na cadeira de Estrutura de Dados... (ta uma bagunca)
